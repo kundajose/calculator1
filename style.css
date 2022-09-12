@@ -1,0 +1,26 @@
+button {
+  width: 40px;
+  height: 40px;
+  margin: 5px 5px 5px 13px;
+  border-radius: 50px;
+  border: none;
+  } 
+.calcLayout {
+	background-color:black;
+	width: 250px;
+	padding: 10px;
+	border-radius: 10px;
+    margin:100px 0 0 500px;
+}
+.evalButton {
+	width: 92.5%;
+}
+.display {
+	margin:15px 10px;
+	background-color: white;
+	height: 40px;
+	text-align: right;
+	width: 90%;
+	padding-top: 17px;
+	padding-right: 5px;
+}
